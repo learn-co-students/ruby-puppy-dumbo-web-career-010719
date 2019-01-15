@@ -3,5 +3,8 @@ source "https://rubygems.org"
 
 # gem "rails"
 
+gem 'pry'
+gem 'require_all'
 gem 'rspec'
-    gem 'pry'
+gem 'rb-readline'
+gem 'pry-coolline'
